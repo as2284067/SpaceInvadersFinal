@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>space ship.png</file>
+        <file>lazor.png</file>
+        <file>drone.png</file>
+        <file>bckgrnd.jpeg</file>
+        <file>Single-Bullet-icon.png</file>
+    </qresource>
+</RCC>
